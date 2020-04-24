@@ -8,5 +8,6 @@
     <string name="exampleEmail">examle@gmail.com</string>
     <string name="OK">OK</string>
     <string name="clear">Очистить</string>
-    <string name="subscriptionConfirmationText">Подписка на рассылку для пользователя %s </string>
+    <string name="subscriptionConfirmationText">Подписка на рассылку для пользователя %1$s на
+        электронный адрес %2$s оформлена успешно</string>
 </resources>

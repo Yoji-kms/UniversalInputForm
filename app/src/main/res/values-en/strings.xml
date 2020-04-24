@@ -8,6 +8,6 @@
     <string name="exampleEmail">examle@gmail.com</string>
     <string name="OK">OK</string>
     <string name="clear">Clear</string>
-    <string name="subscriptionConfirmationText">Subscription for user %s e-mail %2$s confirmed
+    <string name="subscriptionConfirmationText">Subscription for user %1$s e-mail %2$s confirmed
     </string>
 </resources>
