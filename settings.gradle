@@ -1,0 +1,2 @@
+rootProject.name='Universal Input Form'
+include ':app'

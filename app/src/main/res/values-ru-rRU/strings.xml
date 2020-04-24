@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Универсальная форма ввода</string>
+    <string name="Subscription">Подписка</string>
+    <string name="userName">Имя пользователя</string>
+    <string name="exampleUserName">Имя фамилия</string>
+    <string name="textEmail">Электронный адрес</string>
+    <string name="exampleEmail">examle@gmail.com</string>
+    <string name="OK">OK</string>
+    <string name="clear">Очистить</string>
+    <string name="subscriptionConfirmationText">Подписка на рассылку для пользователя %s </string>
+</resources>
