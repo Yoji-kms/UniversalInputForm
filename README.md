@@ -1,4 +1,4 @@
-## Нетология. Введение в Anddroid. Урок 2. Задание 1
+## Нетология. Введение в Anddroid. Урок 2 (Приложение “Hello world”). Задание 1
 
 ### [Задание](https://github.com/netology-code/and-homeworks/tree/master/1.2.hello-world/1.2.1):
 
