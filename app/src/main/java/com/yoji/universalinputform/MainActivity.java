@@ -2,7 +2,6 @@ package com.yoji.universalinputform;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -32,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String userName = userNameEditText.getText().toString();
                 String email = emailEditText.getText().toString();
-                @SuppressLint("StringFormatMatches") String confirmationMessage = getString
+                String confirmationMessage = getString
                         (R.string.subscriptionConfirmationText, userName, email);
                 subscriptionConfirmationText.setText(confirmationMessage);
             }
